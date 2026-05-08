@@ -1,5 +1,5 @@
 # Technical Portfolio & Ecosystem Impact Report
-**Candidate:** [chyke22](https://g.dev/chyke22)
+**Candidate:** [chyke22](https://g.dev/chyke22) | [X (Twitter)](https://x.com/Chyke33) | [Facebook](https://www.facebook.com/share/1ArnRoAp7w/)
 **Focus:** Full-Stack Google Ecosystem Specialist | AI Agent Architect | Edge Development Innovator
 
 ---
