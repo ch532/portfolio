@@ -28,9 +28,14 @@ A highly integrated developer and community leader specializing in the "Total Go
 *   **Total Account Synchronization:** Unified management of Play Store, Google Cloud, Android Studio, and YouTube under a single, optimized developer identity.
 
 ## 🤝 5. Community Leadership & Advocacy
+*   **Official Google Recognition:** Recognized by Google as a **Top Engager** on their weekly engagement list. This highlights active, high-value contribution to the global Google developer discourse.
 *   **GDG Abuja Mentor:** Active technical leader and mentor in the **Google Developer Group (GDG) Abuja** community. Provides hands-on training in App Development, Maps API, and AI.
 *   **Brand Advocate:** Recognized **Top Fan** for both **Google** and **Google Cloud** on Facebook. Direct engagement with Google’s social media and community teams.
-*   **Knowledge Sharer:** Frequent contributor of technical tutorials, guiding developers on starting their journeys with Google Maps and local development workflows.
+
+## 🏆 6. Recent Achievements (Google Cloud Next '26)
+*   **Multi-Agent Systems Specialist:** Earned the *DevKeynote: Creating Multi-agent Systems* badge for work in AI orchestration.
+*   **CI/CD Innovator:** Recognized for *Accelerating CI/CD with Coding Agents* and *Effortless Platform Migration with Agents*.
+*   **Security & Strategy:** Certified in *Workspace Planning and Strategy Development* and *Data Security and Sovereignty in Workspace*.
 
 ---
 
